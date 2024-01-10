@@ -9,15 +9,16 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `프송의 블로그`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `송주원`,
+      summary: `, 대한민국 서울에 살고 있는 / who lives in Seoul, South Korea / quien vivo en Seúl, Corea del Sur.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      // twitter: `kylemathews`,
+      instagram: 'psong_yeah/'
     },
   },
   plugins: [
