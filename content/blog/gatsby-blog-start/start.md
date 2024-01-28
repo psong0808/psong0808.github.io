@@ -48,5 +48,6 @@ git push -u origin main
 ## 앞으로 해야할 것
 - CSS customize
 - Google Search Console, Google Analytics 연결
+- 도메인 연결
  
 > 시작이 반이다... 이제부턴 꾸준히 적어보자!
